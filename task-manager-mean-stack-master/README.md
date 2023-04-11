@@ -7,3 +7,8 @@
 
 > Run `npm install` in both the **api** and **frontend** folders to install dependencies
 
+<hr>
+
+CommandLine Prompts:
+
+- ng new frontend -- 
