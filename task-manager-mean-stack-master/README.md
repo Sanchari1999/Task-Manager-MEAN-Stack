@@ -11,4 +11,10 @@
 
 CommandLine Prompts:
 
-- ng new frontend -- 
+- ng new frontend --style=scss --routing=true
+
+<hr>
+
+Install BULMA: Front-end CSS framework. 
+@import ;../node_modules/bulma/bulma.sass';
+
